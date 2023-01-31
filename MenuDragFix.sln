@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuDragFix", "MenuDragFix.csproj", "{1F553218-EA85-4124-A7B1-6E24114AFF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F553218-EA85-4124-A7B1-6E24114AFF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F553218-EA85-4124-A7B1-6E24114AFF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F553218-EA85-4124-A7B1-6E24114AFF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F553218-EA85-4124-A7B1-6E24114AFF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
